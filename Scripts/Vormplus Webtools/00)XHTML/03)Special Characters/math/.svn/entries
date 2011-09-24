@@ -1,0 +1,159 @@
+8
+
+dir
+2
+https://vormplus-webtools.googlecode.com/svn/trunk/00)XHTML/03)Special%20Characters/math
+https://vormplus-webtools.googlecode.com/svn
+
+
+
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+
+
+svn:special svn:externals svn:needs-lock
+
+per mille.scpt
+file
+
+
+
+
+2007-09-17T20:05:33.000000Z
+b8735cfe43aadbe423c44ab55638a09c
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+degree sign.scpt
+file
+
+
+
+
+2007-09-17T20:05:40.000000Z
+a78e0b996421e0e5ffefa30af32e27e6
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+multiplication.scpt
+file
+
+
+
+
+2007-09-17T20:05:56.000000Z
+3151718accf9c021cd954cff3fd2d406
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+less-than.scpt
+file
+
+
+
+
+2007-09-17T20:05:51.000000Z
+808f659f444449cd86615728df3007f7
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+plusminus.scpt
+file
+
+
+
+
+2007-09-17T20:05:48.000000Z
+0aba92a42029104d1205fab136d0c5ec
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+greater-than.scpt
+file
+
+
+
+
+2007-09-17T20:05:53.000000Z
+68400732ec68514e944a5739e7831ceb
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+division.scpt
+file
+
+
+
+
+2007-09-17T20:05:36.000000Z
+e1e3b619bdc4734b5ff4a3346eef1752
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+negation.scpt
+file
+
+
+
+
+2007-09-17T20:05:30.000000Z
+dbedb6a28c9ffc867e65453fbac9dc5a
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+superscript 1.scpt
+file
+
+
+
+
+2007-09-17T20:05:42.000000Z
+4dbdeac752161bd4800aeed4906350eb
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+superscript 2.scpt
+file
+
+
+
+
+2007-09-17T20:05:45.000000Z
+7d55eb559118ae80ef2bee325653cf50
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+superscript 3.scpt
+file
+
+
+
+
+2007-09-17T20:05:59.000000Z
+596d3d546013c3681016a439e85fc93e
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+

@@ -1,0 +1,81 @@
+8
+
+dir
+2
+https://vormplus-webtools.googlecode.com/svn/trunk/00)XHTML/03)Special%20Characters/currency
+https://vormplus-webtools.googlecode.com/svn
+
+
+
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+
+
+svn:special svn:externals svn:needs-lock
+
+cent.scpt
+file
+
+
+
+
+2007-09-17T20:03:10.000000Z
+80910a0993c65d87c36350a7b6a6fd73
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+currency.scpt
+file
+
+
+
+
+2007-09-17T20:03:12.000000Z
+4c73d05519947fdc4c986a9d1932e2e4
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+euro.scpt
+file
+
+
+
+
+2007-09-17T20:03:15.000000Z
+229015e02b95fae4dc600f6bd6b1259c
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+yen.scpt
+file
+
+
+
+
+2007-09-17T20:03:05.000000Z
+caf6f0baba2f8f4d350030987353131d
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+pound.scpt
+file
+
+
+
+
+2007-09-17T20:03:07.000000Z
+3eb2d5fce94b8861b8b92928e8e28781
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+

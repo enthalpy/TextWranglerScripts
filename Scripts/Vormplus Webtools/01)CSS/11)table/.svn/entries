@@ -1,0 +1,81 @@
+8
+
+dir
+3
+https://vormplus-webtools.googlecode.com/svn/trunk/01)CSS/11)table
+https://vormplus-webtools.googlecode.com/svn
+
+
+
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+
+
+svn:special svn:externals svn:needs-lock
+
+border-collapse.scpt
+file
+
+
+
+
+2007-09-17T20:19:37.000000Z
+c7c2f70b2cc6564484e2660e3aa19f66
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+has-props
+
+empty-cells.scpt
+file
+
+
+
+
+2007-09-17T20:19:39.000000Z
+ea2a9e4eb04b8c01a0c22dbf5592ef7a
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+has-props
+
+border-spacing.scpt
+file
+
+
+
+
+2007-09-17T20:19:40.000000Z
+98dfa2afefea6d8597877afde72d3703
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+has-props
+
+caption-side.scpt
+file
+
+
+
+
+2007-09-17T20:19:35.000000Z
+d09b7f727fdc8e67ed6b89c89ddacc97
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+has-props
+
+table-layout.scpt
+file
+
+
+
+
+2007-09-17T20:19:34.000000Z
+459f4735f8aca20520672ac8681c41cc
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+has-props
+

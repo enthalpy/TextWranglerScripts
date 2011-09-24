@@ -1,0 +1,61 @@
+8
+
+dir
+2
+https://vormplus-webtools.googlecode.com/svn/trunk/00)XHTML/01)head
+https://vormplus-webtools.googlecode.com/svn
+
+
+
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+
+
+svn:special svn:externals svn:needs-lock
+
+01)meta
+dir
+
+02)link
+dir
+
+style.scpt
+file
+
+
+
+
+2007-09-17T19:55:15.000000Z
+359cb4be6d497f4b658f8ea6f0102990
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+conditional-comment.scpt
+file
+
+
+
+
+2007-09-17T19:55:10.000000Z
+b0c25518770801f4e657cf2f93efc2c7
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+script.scpt
+file
+
+
+
+
+2007-09-17T19:55:03.000000Z
+81b4b47c8d071d158873fbbb97d47600
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+

@@ -1,0 +1,119 @@
+8
+
+dir
+2
+https://vormplus-webtools.googlecode.com/svn/trunk/00)XHTML/02)body
+https://vormplus-webtools.googlecode.com/svn
+
+
+
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+
+
+svn:special svn:externals svn:needs-lock
+
+03)text
+dir
+
+hr.scpt
+file
+
+
+
+
+2007-09-17T19:58:01.000000Z
+ad8149073f3f21c6bbcaabbebb07fa01
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+05)forms
+dir
+
+img.scpt
+file
+
+
+
+
+2007-12-26T20:17:32.000000Z
+2cd8dd1f3549731ccce488ad60d62d34
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+06)table
+dir
+
+param.scpt
+file
+
+
+
+
+2007-09-17T19:57:58.000000Z
+5be1fe338baa2a1106de43cc698b4ffa
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+comment.scpt
+file
+
+
+
+
+2007-09-17T19:57:59.000000Z
+47f96419b1c838de2b14352b7c3f2ab2
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+div.scpt
+file
+
+
+
+
+2007-09-17T19:57:38.000000Z
+8eb55d3ccd9f4ecad4896aa57a2df36a
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+04)lists
+dir
+
+bdo.scpt
+file
+
+
+
+
+2007-09-17T19:57:56.000000Z
+646eda942232c4c56b108719fa432992
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+object.scpt
+file
+
+
+
+
+2007-09-17T19:57:54.000000Z
+9ddaf2fffca8cd1239fdd31c28bab1c1
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+

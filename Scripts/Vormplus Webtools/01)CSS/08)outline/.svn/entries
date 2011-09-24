@@ -1,0 +1,68 @@
+8
+
+dir
+3
+https://vormplus-webtools.googlecode.com/svn/trunk/01)CSS/08)outline
+https://vormplus-webtools.googlecode.com/svn
+
+
+
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+
+
+svn:special svn:externals svn:needs-lock
+
+outline-color.scpt
+file
+
+
+
+
+2007-09-17T20:17:35.000000Z
+ee9cdd0ee7a686c69d2069277c968c05
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+has-props
+
+outline-width.scpt
+file
+
+
+
+
+2007-09-17T20:17:32.000000Z
+2baf0697c0965452bd611b18ac9b9cad
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+has-props
+
+outline-style.scpt
+file
+
+
+
+
+2007-09-17T20:17:37.000000Z
+f7ce83e54141db5df8ec2df99ca8db1b
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+has-props
+
+outline.scpt
+file
+
+
+
+
+2007-09-17T20:17:39.000000Z
+804c580c386ae436991524a42f9babe0
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+has-props
+

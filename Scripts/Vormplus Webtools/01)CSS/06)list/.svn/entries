@@ -1,0 +1,68 @@
+8
+
+dir
+3
+https://vormplus-webtools.googlecode.com/svn/trunk/01)CSS/06)list
+https://vormplus-webtools.googlecode.com/svn
+
+
+
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+
+
+svn:special svn:externals svn:needs-lock
+
+list-style-type.scpt
+file
+
+
+
+
+2007-09-17T20:16:59.000000Z
+0bbc0b707da68a0522d772973d928ade
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+has-props
+
+list-style-image.scpt
+file
+
+
+
+
+2007-09-17T20:16:57.000000Z
+9011b425a98ac2b3e22f9fe4187e48cb
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+has-props
+
+list-style.scpt
+file
+
+
+
+
+2007-09-17T20:16:55.000000Z
+3129b926d31a38ef27be1f2d5cdd57ca
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+has-props
+
+list-style-position.scpt
+file
+
+
+
+
+2007-09-17T20:16:52.000000Z
+9d287440adcd08bbb1321a527b3a612f
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+has-props
+

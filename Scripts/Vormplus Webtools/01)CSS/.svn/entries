@@ -1,0 +1,71 @@
+8
+
+dir
+3
+https://vormplus-webtools.googlecode.com/svn/trunk/01)CSS
+https://vormplus-webtools.googlecode.com/svn
+
+
+
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+
+
+svn:special svn:externals svn:needs-lock
+
+00)New CSS Document.scpt
+file
+
+
+
+
+2008-02-25T19:10:37.000000Z
+9c0cf9655aaea5ea69cbc7d293aadbc1
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+has-props
+
+05)font
+dir
+
+02)border
+dir
+
+09)padding
+dir
+
+01)background
+dir
+
+06)list
+dir
+
+07)margin
+dir
+
+08)outline
+dir
+
+12)text
+dir
+
+04)dimension
+dir
+
+11)table
+dir
+
+selectors
+dir
+
+03)classification
+dir
+
+13)pseudo-classes
+dir
+
+10)position
+dir
+

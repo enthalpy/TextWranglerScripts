@@ -1,0 +1,81 @@
+8
+
+dir
+3
+https://vormplus-webtools.googlecode.com/svn/trunk/01)CSS/07)margin
+https://vormplus-webtools.googlecode.com/svn
+
+
+
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+
+
+svn:special svn:externals svn:needs-lock
+
+margin-right.scpt
+file
+
+
+
+
+2007-09-17T20:17:20.000000Z
+f331c045d7a8a7ec183a76605a074c47
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+has-props
+
+margin-top.scpt
+file
+
+
+
+
+2007-09-17T20:17:17.000000Z
+13c2bdcb850117bc17c501221d5211ec
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+has-props
+
+margin.scpt
+file
+
+
+
+
+2007-09-17T20:17:21.000000Z
+56848e402c2420a1a1c5e9b39e5f23c8
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+has-props
+
+margin-bottom.scpt
+file
+
+
+
+
+2007-09-17T20:17:23.000000Z
+0fc8eda1113dc2ca10ac13b728572745
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+has-props
+
+margin-left.scpt
+file
+
+
+
+
+2007-09-17T20:17:25.000000Z
+eb3e98b1cb74cc1fe53e8c18d3c2498e
+2008-03-30T15:56:04.601756Z
+3
+janvantomme
+has-props
+

@@ -1,0 +1,94 @@
+8
+
+dir
+2
+https://vormplus-webtools.googlecode.com/svn/trunk/00)XHTML/01)head/02)link
+https://vormplus-webtools.googlecode.com/svn
+
+
+
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+
+
+svn:special svn:externals svn:needs-lock
+
+link-start.scpt
+file
+
+
+
+
+2007-09-17T19:56:32.000000Z
+21395df9081d88a4510011e1a7b9fb2e
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+link-stylesheet-handheld.scpt
+file
+6
+
+
+
+2008-09-20T12:13:45.000000Z
+dde9cfb50593df912fffea3334645145
+2008-09-20T12:26:33.757021Z
+6
+janvantomme
+has-props
+
+link-stylesheet-print.scpt
+file
+
+
+
+
+2007-09-17T19:56:24.000000Z
+dc135223a5b4b01f2fccb5eabaa96d51
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+link-shortcut icon.scpt
+file
+
+
+
+
+2007-12-26T19:54:36.000000Z
+472906b9e88229ea754a2f70c2045e39
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+link-stylesheet-screen.scpt
+file
+
+
+
+
+2008-02-17T16:30:51.000000Z
+8b53c3c6c173f74ed487e5833a590054
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
+link-icon.scpt
+file
+
+
+
+
+2007-12-26T19:54:33.000000Z
+90d4fc0e77461b13f4b3290ee44f2fa3
+2008-03-30T15:54:10.586035Z
+2
+janvantomme
+has-props
+
